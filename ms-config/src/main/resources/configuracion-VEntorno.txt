@@ -1,0 +1,3 @@
+se va a edit configiration y se agrega
+GIT_USER
+GIT_PASSWORD

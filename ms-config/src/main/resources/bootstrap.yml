@@ -7,12 +7,12 @@ spring:
       server:
         git:
           uri: https://github.com/ronald1781/ms-cachareoAv.git
-          searchPath: config-data
+          searchPaths: config-data
           username: ${GIT_USER}
           password: ${GIT_PASSWORD}
   security:
     user:
       name: root
       password: s3cr3t
-      
+
       
